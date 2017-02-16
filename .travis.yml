@@ -1,2 +1,2 @@
 language: java
-mvn -f steerio-nbp/pom.xml clean install
+script: mvn -f steerio-nbp/pom.xml clean install
