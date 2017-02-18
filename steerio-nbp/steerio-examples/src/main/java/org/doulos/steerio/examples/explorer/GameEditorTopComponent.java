@@ -78,7 +78,7 @@ public final class GameEditorTopComponent extends TopComponent {
             GameScreen screen = getLookup().lookup(GameScreen.class);
             if (game != null && screen != null) {
                 game.start(screen.getScene());
-                screen.startViaTimer();//start();
+                screen.start();
             } else if (screen != null) {
                 screen.start();
             }
