@@ -1,2 +1,5 @@
 language: java
-mvn -f steerio-nbp/pom.xml clean install
+jdk:
+  - oraclejdk8
+script:
+   mvn -f steerio-nbp/pom.xml clean install

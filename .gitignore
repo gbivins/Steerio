@@ -3,3 +3,5 @@
 .bin-all/
 bin/
 doc/
+/steerio-nbp/steerio-examples/target/
+/steerio-nbp/application/target/
