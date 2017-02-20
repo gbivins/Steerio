@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/gbivins/Steerio.svg?branch=master)](https://travis-ci.org/gbivins/Steerio)
 ![](http://i1150.photobucket.com/albums/o604/ClickerMonkey/Steerio1_zpsebbab7bb.png)
 =======
 
